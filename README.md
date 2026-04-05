@@ -16,11 +16,6 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 - 🤝 Open to collaborations and open-source contributions
 - 💡 Problem-solving through clean, efficient code
 
-## 📊 GitHub Statistics
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrushali0605&show_icons=true&theme=radical&count_private=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushali0605&layout=compact&theme=radical)](https://github.com/vrushali0605)
-
 ## 📫 Get In Touch
 - **Email**: [vrushalivalsangkar0605@gmail.com](mailto:vrushalivalsangkar0605@gmail.com)
 - **GitHub**: [@vrushali0605](https://github.com/vrushali0605)
